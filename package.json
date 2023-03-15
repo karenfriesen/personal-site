@@ -1,8 +1,8 @@
 {
-  "name": "eleventy-excellent",
-  "version": "1.4.4",
-  "description": "Eleventy starter based on the workflow suggested by Andy Bell's buildexcellentwebsit.es.",
-  "author": "Lene Saile",
+  "name": "personal-website",
+  "version": "0.5.0",
+  "description": "based on https://github.com/madrilene/eleventy-excellent",
+  "author": "Karen Friesen",
   "license": "ISC",
   "main": ".eleventy.js",
   "engines": {
@@ -18,7 +18,7 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/madrilene/eleventy-excellent.git"
+    "url": "https://github.com/karenfriesen/personal-site"
   },
   "dependencies": {
     "@11ty/eleventy": "^2.0.0",

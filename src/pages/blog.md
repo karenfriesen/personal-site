@@ -1,6 +1,6 @@
 ---
-title: Blog
-description: 'All blog posts can be found here'
+title: Notes
+description: 'All notes can be found here'
 layout: blog
-permalink: /blog/index.html
+permalink: /notes/index.html
 ---

@@ -4,31 +4,35 @@
   "items": [
     {
       "name": "Dark",
-      "value": "#404040"
+      "value": "#073642"
     },
     {
       "name": "Light",
-      "value": "#F3F3F3"
+      "value": "#eee8d5"
     },
     {
       "name": "Light Glare",
-      "value": "#FFFFFF"
+      "value": "#fdf6e3"
     },
     {
       "name": "Primary",
-      "value": "#dd4462"
+      "value": "#268bd2"
     },
     {
       "name": "Primary Glare",
-      "value": "#F4D0DF"
+      "value": "#268bd2"
     },
     {
       "name": "Secondary",
-      "value": "#0369A1"
+      "value": "#cb4b16"
     },
     {
       "name": "Secondary Glare",
-      "value": "#D8E2F4"
+      "value": "#cb4b16"
+    },
+    {
+      "name": "Danger",
+      "value": "oklch(59.5% 0.237 20.12)"
     }
   ]
 }

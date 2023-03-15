@@ -12,3 +12,6 @@ src/_includes/scripts
 # secret data
 .env
 
+# MacOS
+.DS_Store
+
