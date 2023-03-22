@@ -23,15 +23,15 @@ h3 {
 }
 
 h1 {
-  font-size: var(--size-step-5);
-}
-
-h2 {
   font-size: var(--size-step-4);
 }
 
-h3 {
+h2 {
   font-size: var(--size-step-3);
+}
+
+h3 {
+  font-size: var(--size-step-2);
 }
 
 /* Set line lengths */
@@ -96,7 +96,7 @@ main:focus {
   outline: none;
 }
 
-article [href^='http']:not([href*='karenfriesen.com'])::after {
+article [href^='http']:not([href*='karenfriesen.dev'])::after {
   display: inline-block;
   width: 1em;
   height: 1em;

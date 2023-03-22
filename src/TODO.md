@@ -1,0 +1,2 @@
+- [ ] add favicon
+- [ ] re-do og image

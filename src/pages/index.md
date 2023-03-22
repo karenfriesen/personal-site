@@ -1,13 +1,15 @@
 ---
 permalink: /index.html
-title: 'Hi'
+title: 'Hello'
 description: 'Karen Friesen’s dev site.'
 layout: 'home'
 blog:
   title: 'Notes'
-  intro: "I'm showing the last 4 blog posts, but there might be more!"
+  intro: 'Some things I wrote:'
 ---
 
-## Developing in public
+## Building in public
 
 Starting with the [Eleventy Excellent starter template](https://github.com/madrilene/eleventy-excellent) by [madrilene](https://github.com/madrilene) and going from there.
+
+I wanted to be able to write some short posts and get them up and also tinker with the site so I’ll be working on whichever as I feel like it.

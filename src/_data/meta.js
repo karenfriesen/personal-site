@@ -1,6 +1,6 @@
 module.exports = {
-  url: process.env.URL || 'http://localhost:8080',
-  siteName: 'Karen Friesen',
+  url: process.env.URL || 'https://karenfriesen.dev',
+  siteName: 'Karen Friesen . Dev',
   siteDescription: '',
   siteType: 'Person', // schema
   locale: 'en_CA',
@@ -8,7 +8,7 @@ module.exports = {
   skipContent: 'Skip to content',
   author: 'Karen Friesen',
   authorEmail: 'hello@karenfriesen.dev',
-  authorWebsite: '',
+  authorWebsite: 'https://karenfriesen.dev',
   themeColor: '#DD4462', //  Manifest: defines the default theme color for the application
   themeBgColor: '#F3F3F3', // Manifest: defines a placeholder background color for the application page to display before its stylesheet is loaded
   meta_data: {
@@ -17,7 +17,7 @@ module.exports = {
       'Visible content: Eleventy starter based on workflow for Cube CSS, Every Layout, Design Tokens and Tailwind for uitility, based on the concepts explained in buildexcellentwebsit.es ', // alt text for default meta image
     twitterSite: '',
     twitterCreator: '',
-    mastodonProfile: 'https://mstdn.social/@karenfriesen'
+    mastodonCreator: 'https://mstdn.social/@karenfriesen'
   },
   blog: {
     // this is for the rss feed
