@@ -10,6 +10,8 @@ blog:
 
 ## Building in public
 
-Starting with the [Eleventy Excellent starter template](https://github.com/madrilene/eleventy-excellent) by [madrilene](https://github.com/madrilene) and going from there.
+Starting naked, ~~clothes~~ CSS later.
+
+Using the [Eleventy Excellent starter template](https://github.com/madrilene/eleventy-excellent) by [madrilene](https://github.com/madrilene) and going from there.
 
 I wanted to be able to write some short posts and get them up and also tinker with the site so I’ll be working on whichever as I feel like it.

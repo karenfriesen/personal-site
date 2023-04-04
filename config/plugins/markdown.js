@@ -19,13 +19,13 @@ const markdownLib = markdownIt({
   .use(markdownItPrism, {
     defaultLanguage: 'plaintext'
   })
-  .use(markdownItAnchor, {
-    slugify: slugifyString,
-    tabIndex: false,
-    permalink: markdownItAnchor.permalink.headerLink({
-      class: 'heading-anchor'
-    })
-  })
+  // .use(markdownItAnchor, {
+  //   slugify: slugifyString,
+  //   tabIndex: false,
+  //   permalink: markdownItAnchor.permalink.headerLink({
+  //     class: 'heading-anchor'
+  //   })
+  // })
   .use(markdownItClass, {
     ol: 'list',
     ul: 'list'
